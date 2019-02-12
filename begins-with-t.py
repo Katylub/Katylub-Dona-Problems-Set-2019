@@ -4,7 +4,7 @@
 
 l = datetime.date.today().strftime("%A")
 
-if l in ('Tuesday', 'Thursday'):
+if l == ('Tuesday', 'Thursday'):
 	print("Yes - today begins with a T.")
-else l == ('Monday', 'Wednesday', 'Friday', 'Saturday', 'Sunday'):
+elif l == ('Monday', 'Wednesday', 'Friday', 'Saturday', 'Sunday'):
 	print("No - today does not begin with a T.") 
