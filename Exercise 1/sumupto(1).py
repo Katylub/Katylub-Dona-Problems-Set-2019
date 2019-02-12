@@ -3,7 +3,7 @@
 # sum of all numbers between one and that number.
 
 #Use positive number
-n = int(input("Input a number: "))
+n = int(input("Input a positive number: "))
 sum_num = (n * (n + 1)) / 2
 print(sum_num)
 
