@@ -3,7 +3,8 @@
 
 #User need to enter a string
 s = str(input("Input a string: "))
-
-s.split()
-
-print (s)
+#Create a list first and make sure read every second word
+l= s.split () [::2]
+# Eliminate list format 
+l=" ".join (l)
+print (l)
