@@ -4,16 +4,22 @@
 #by taking the current value and, if it is even, divide it by two, but if it is odd, multiply
 #it by three and add one. Have the program end if the current value is one.
 
-#Use a positive number
-n = int(input("Input a positive number: "))
-
-x = 0
- 
-for x in range(1, n):
-    if(n % 2 == 0):
-        x = x/2
-    else:
-        x=(x*3)/2
- 
-print(n)
-
+#After several trials and research I took as reference https://python-forum.io
+  
+#Define the function
+def collatz(number):
+    #If is even
+    if number % 2 == 0:
+        return number//2
+        #If is odd
+    else:    
+        result = 3*number + 1
+        return result       
+try:
+    #Add the value
+    n = int(input("Please enter a positive number: "))
+    while n != 1:
+        print (n)
+        n = collatz(abs(n))
+except ValueError:
+    print('Type a number please!')
