@@ -17,9 +17,9 @@ def collatz(number):
         return result       
 try:
     #Add the value
-    n = int(input("Please enter a positive number: "))
-    while n != 1:
-        print (n)
-        n = collatz(abs(n))
+    number = int(input("Please enter a positive number: "))
+    while number > 1:
+        print (number)
+        number = collatz(abs(number))
 except ValueError:
     print('Type a number please!')
