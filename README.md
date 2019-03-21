@@ -1,6 +1,6 @@
 # About this repository:
 This repository contains the solution for the Problem Set 2019 for the module Programing and Scripting at GMIT
-To download the file use this link: https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf
+- To download the file use this link: https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf
 
 # About the file:
 This repository solve Exercise 1 from the Problem Set:
