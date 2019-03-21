@@ -4,7 +4,7 @@
 #by taking the current value and, if it is even, divide it by two, but if it is odd, multiply
 #it by three and add one. Have the program end if the current value is one.
 
-#I did it taking many webpages as reference
+#I did it taking many websites as reference
   
 num = int(input("Please enter a positive integer: "))
 
