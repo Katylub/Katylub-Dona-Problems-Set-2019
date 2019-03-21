@@ -3,7 +3,7 @@ This repository contains the solution for the Problem Set 2019 for the module Pr
 - To download the file use this link: https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf
 
 # About the file:
-This repository solve Exercise 1 from the Problem Set:
+This repository solve Exercise 2 from the Problem Set:
 - File name: DaywithT
 - Problem: Write a program that outputs whether or not today is a day that begins with the letter T
 
@@ -18,4 +18,4 @@ This repository solve Exercise 1 from the Problem Set:
 ## References
 To create this program was necessary to use: 
 1. Training Video and material provided during Programing and Scripting course at GMIT
-2. Research 
+2. Hours of research in different pages
