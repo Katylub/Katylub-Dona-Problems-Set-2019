@@ -4,7 +4,7 @@ This repository contains the solution for the Problem Set 2019 for the module Pr
 
 # About the file:
 This repository solve Exercise 2 from the Problem Set:
-- File name: DaywithT
+- File name: Begins-with-t
 - Problem: Write a program that outputs whether or not today is a day that begins with the letter T
 
 ## Installation
