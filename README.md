@@ -19,4 +19,4 @@ by taking the current value and, if it is even, divide it by two, but if it is o
 ## References
 To create this program was necessary to use: 
 1. Training Video and material provided during Programing and Scripting course at GMIT
-2. Research - I used web page [Python-Forum](https://python-forum.io) for reference in some of my solutions, as commented in the code
+2. Research  
