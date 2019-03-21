@@ -2,7 +2,7 @@ example.txt
 This
 Is 
 The example
-OF 
+Of
 The program
 I am
 doing
