@@ -3,7 +3,7 @@ This repository contains the solution for the Problem Set 2019 for the module Pr
 - To download the file use this link: https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf
 
 # About the file:
-This repository solve Exercise 4 from the Problem Set:
+This repository solve Exercise 5 from the Problem Set:
 - File name: Primes.py
 - Problem: Write a program that asks the user to input a positive integer and tells the user whether or not the number is a prime.
 
