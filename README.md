@@ -18,4 +18,4 @@ This repository solve Exercise 10 from the Problem Set:
 ## References
 To create this program was necessary to use: 
 1. Training Video and material provided during Programing and Scripting course at GMIT
-2. Mathlab tutorial in different webs including [tutorial points] (www.tutorialspoint.com/matlab/matlab_plotting.htm) and online Python tutorial 
+2. Mathlab tutorial in different and online Python tutorial 
