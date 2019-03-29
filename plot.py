@@ -12,7 +12,8 @@ y = x
 #Second function
 g = x*x
 #Third function
-h = 2^x
-plt.plot(x, y, x, g, x, h, '.-')
+h = 2**x
+
+plt.plot(x, y, x, g, x, h)
 
 plt.show()
