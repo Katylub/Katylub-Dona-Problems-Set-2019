@@ -1,11 +1,20 @@
 # About this repository:
-This repository contains the solution for the Problem Set 2019 for the module Programing and Scripting at GMIT
+This repository contains the solutions for the Problem Set 2019 for the module Programing and Scripting at GMIT
 - To download the file use this link: https://github.com/ianmcloughlin/project-pands/raw/master/project.pdf
 
-# About the file:
-This repository solve Exercise 1 from the Problem Set:
-- File name: Sumupto.py
-- Problem: Write a program that asks the user to input any positive integer and outputs the sum of all numbers between one and that number
+# About the files:
+This repository solve Exercise 1 to 10 from the Problem Set, below you can see what name represent the program in each problem:
+
+1. Exercise 1: Exercise 1/sumupto.py - It's the only one in folder for initial research purpose
+2. Exercise 2: begins-with-t.py
+3. Exercise 3: python divisors.py
+4. Exercise 4: collatz.py
+5. Exercise 5: primes.py
+6. Exercise 6: secondstring.py
+7. Exercise 7: squareroot.py
+8. Exercise 8: datetime.py
+9. Exercise 9: Second.py and example.txt
+10. Exercise 10: plot.py
 
 ## Installation
 1. Make sure you have Python installed to run the program
@@ -18,4 +27,6 @@ This repository solve Exercise 1 from the Problem Set:
 ## References
 To create this program was necessary to use: 
 1. Training Video and material provided during Programing and Scripting course at GMIT
-2. Research - I used web page [w3.resouce.com ](www.w3resource.com) for reference in some of my solutions, as commented in the code
+2. Research 
+3. Web pages: [w3.resource.com ](www.w3resource.com), [Beginners Book](https://beginnersbook.com/), [Programiz]([www.programiz.com/python-programming/examples/prime-number-intervals), [Stackoverflow](www.stackoverflow.com/), [W3schools.com](www.w3schools.com), among others. 
+
