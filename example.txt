@@ -1,0 +1,8 @@
+example.txt
+This
+Is 
+The example
+Of
+The program
+I am
+doing
